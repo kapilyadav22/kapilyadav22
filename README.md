@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kapil Kumar Yadav
+- 👋 Hi, I’m Kapil Yadav
 - 👀 I’m interested in Android Development, Artificial Intelligence and Machine learning.
 - 🌱 I’m currently learning Data Structures and Algorithms and AWS Machine Learning Course by Udacity.
 
