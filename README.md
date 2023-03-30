@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Kapil Yadav
-- 👀 I’m interested in Android Development, Artificial Intelligence and Machine learning.
-- 🌱 I’m currently learning Data Structures and Algorithms and AWS Machine Learning Course by Udacity.
+- 👀 I’m R & D Engineer at Tejas Networks.
+- 🌱 I’m good in Data Structures and Algorithms
+- ✨ I love to do development and had done some projects in Android Development (Native apps, flutter) and currently entering into the world of Web development.
+- I am proficient in C, C++ and intermediate in java.
 
 
 
